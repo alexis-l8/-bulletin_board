@@ -8,26 +8,26 @@ As a user (homeowner), I want to be able to upload a profile of my property so t
 ## Requirements
 
 ### General
--[ ] Anyone can see a list of all properties on login
--[ ] All users can login via Oauth 
--[ ] User details are saved in a dynamic database
--[ ] See my profile picture and name once logged in
+- [ ] Anyone can see a list of all properties on login
+- [ ] All users can login via Oauth 
+- [ ] User details are saved in a dynamic database
+- [ ] See my profile picture and name once logged in
 
 ### Homeowner
--[ ] Can create boards for their spare rooms - Photo, Description, Contact Details
--[ ] Can delete boards from the homescreen and therefore database
--[ ] Can upload multiple room and property images
+- [ ] Can create boards for their spare rooms - Photo, Description, Contact Details
+- [ ] Can delete boards from the homescreen and therefore database
+- [ ] Can upload multiple room and property images
 
 ### Tenant
--[ ] Can reveal contact details of boards once logged in
--[ ] Can scroll through property images
+- [ ] Can reveal contact details of boards once logged in
+- [ ] Can scroll through property images
 
 ## Stretch Goals
--[ ] Google map of London with pins above property locations
+- [ ] Google map of London with pins above property locations
 
 ## Tech Implementations
--[ ] Oauth Login - Facebook, Google
--[ ] Validate front end input on back end using Joi
+- [ ] Oauth Login - Facebook, Google
+- [ ] Validate front end input on back end using Joi
 
 ## Wireframes
 
