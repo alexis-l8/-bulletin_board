@@ -8,7 +8,7 @@ As a user (homeowner), I want to be able to upload a profile of my property so t
 ## Requirements
 
 ### General
-- [ ] Anyone can see a list of all properties on login
+- [ ] Anyone can see a list of all properties on the landing page, even without login
 - [ ] All users can login via Oauth 
 - [ ] User details are saved in a dynamic database
 - [ ] See my profile picture and name once logged in
