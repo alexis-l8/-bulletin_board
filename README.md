@@ -1,4 +1,4 @@
-# CareBnB Bulletin Board
+# Carebnb Bulletin Board
 
 ## User Story
 As a user (potential tenant), I want to be able to see a list of properties in London with a spare room so I can get in contact if I like the description and look of it.
