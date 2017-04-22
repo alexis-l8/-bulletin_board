@@ -16,9 +16,11 @@ As a user (homeowner), I want to be able to upload a profile of my property so t
 ### Homeowner
 -[ ] Can create boards for their spare rooms - Photo, Description, Contact Details
 -[ ] Can delete boards from the homescreen and therefore database
+-[ ] Can upload multiple room and property images
 
 ### Tenant
 -[ ] Can reveal contact details of boards once logged in
+-[ ] Can scroll through property images
 
 ## Stretch Goals
 -[ ] Google map of London with pins above property locations
@@ -29,9 +31,13 @@ As a user (homeowner), I want to be able to upload a profile of my property so t
 
 ## Wireframes
 
+### Home - Property bulletin feed
+### Submit New Board 
+### View Individual Board
+
 ## Database Schema
 
-### users
+### Users
 Column | Type | Modifiers
 --- | --- | ---
 id | integer | not null default
@@ -42,7 +48,7 @@ display_name | character varying(64) | not null
 password | character varying(64) | not null
 avatar_url | character varying(500) | not null
 
-### boards
+### Boards
 Column | Type | Modifiers
 --- | --- | ---
 id | integer | not null default
@@ -55,3 +61,5 @@ image2_url | character varying(500) | not null
 date_posted | character varying(50) | not null
 
 ## Learnings
+
+1.  
