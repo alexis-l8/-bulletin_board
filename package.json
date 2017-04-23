@@ -4,7 +4,9 @@
   "description": "FAC Research Week",
   "main": "index.js",
   "dependencies": {
-    "hapi": "^16.1.1"
+    "hapi": "^16.1.1",
+    "inert": "^4.2.0",
+    "vision": "^4.1.1"
   },
   "devDependencies": {},
   "scripts": {
