@@ -8,8 +8,10 @@ As a user (homeowner), I want to be able to upload a profile of my property so t
 ## Requirements
 
 ### General
-- [ ] Anyone can see a list of all properties on the landing page, even without login
-- [ ] All users can login via Oauth 
+
+- [ ] Anyone can see a list of all properties on login
+- [ ] All users can login via Oauth
+- [ ] Session management with encrypted Cookies
 - [ ] User details are saved in a dynamic database
 - [ ] See my profile picture and name once logged in
 
@@ -27,12 +29,19 @@ As a user (homeowner), I want to be able to upload a profile of my property so t
 
 ## Tech Implementations
 - [ ] Oauth Login - Facebook, Google
+- [ ] Cookie authentication
 - [ ] Validate front end input on back end using Joi
+- [ ] Fail Action instead of 404 error message
+
+## Testing
+- [ ] Travis Continuous Integration
+- [ ] Tape & Shot Backend Testing
+- [ ] QUnit Frontend Testing
 
 ## Wireframes
 
 ### Home - Property bulletin feed
-### Submit New Board 
+### Submit New Board
 ### View Individual Board
 
 ## Database Schema
