@@ -8,6 +8,7 @@ As a user (homeowner), I want to be able to upload a profile of my property so t
 ## Requirements
 
 ### General
+
 - [ ] Anyone can see a list of all properties on login
 - [ ] All users can login via Oauth
 - [ ] Session management with encrypted Cookies
